@@ -2,8 +2,14 @@
 
 body {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	background-color: #5799E2;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
 }
 
 #container {
