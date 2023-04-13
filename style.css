@@ -20,10 +20,13 @@ h1 {
 	width: 960px;
 }
 
+#button-container {
+	padding-bottom: 24px;
+}
+
 .square {
 	border-style: solid;
 	border-color: black;
-	height: 55px;
 	aspect-ratio: 1 / 1;
 	flex: 1;
 }
