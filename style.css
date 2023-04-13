@@ -26,6 +26,7 @@ button {
 	align-items: center;
 	flex-wrap: wrap;
 	width: 960px;
+	padding-bottom: 24px;
 }
 
 #button-container {
