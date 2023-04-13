@@ -12,6 +12,14 @@ h1 {
 	font-family: Helvetica, sans-serif;
 }
 
+button {
+	padding: 16px;
+	background-color: black;
+	border-style: none;
+	font-family: Helvetica, sans-serif;
+	color: white;
+}
+
 #container {
 	display: flex;
 	justify-content: center;

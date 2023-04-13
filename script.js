@@ -15,7 +15,7 @@ function createBoard(sideSize) {
 
 }
 
-createBoard(30);
+createBoard(16);
 
 container.addEventListener('mouseover', (event) => 
 	event.target.style.backgroundColor = 'black');
